@@ -1,0 +1,19 @@
+# React
+/node_modules
+/build
+/.env
+
+# IDE
+/.vscode
+/.idea
+
+# OS
+.DS_Store
+
+# Dependencies
+/.cache
+/.pnp
+.pnp.js
+
+# Build artifacts
+/dist
